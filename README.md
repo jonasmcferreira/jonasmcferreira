@@ -13,7 +13,7 @@ Some Gists that I'm proud of:
 - [stopwatch](https://gist.github.com/jonasmcferreira/0e3a53a028d1c44cd2ade4b337ae6807) - a command line stopwatch
 
 Tools:
-- [SQS-2-SQS](https://github.com/jonasmcferreira/sqs-2-sqs) a tool to move messages from one SQS to another
+- [sqs2sqs](https://github.com/jonasmcferreira/sqs-2-sqs) a tool to move messages from one SQS queue to another
 
 
 
