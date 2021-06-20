@@ -12,7 +12,8 @@ Some Gists that I'm proud of:
 - [bumpit](https://gist.github.com/jonasmcferreira/6171bb0478096373ce17501dd6097452) - Semantic version bumper
 - [stopwatch](https://gist.github.com/jonasmcferreira/0e3a53a028d1c44cd2ade4b337ae6807) - a command line stopwatch
 
-
+Tools:
+- [SQS-2-SQS](https://github.com/jonasmcferreira/sqs-2-sqs) a tool to move messages from one SQS to another
 
 
 
