@@ -17,5 +17,5 @@ Tools:
 
 Certs:
 
-<a href="https://www.credly.com/badges/b18cc58d-54d2-417b-8ebd-941f567c9091/public_url"><img src="aws-certified-cloud-practitioner.png" height="100"/></a>
-<a href="https://www.credly.com/badges/b18cc58d-54d2-417b-8ebd-941f567c9091/public_url"><img src="aws-certified-solutions-architect-associate.png" height="100"/></a>
+<a href="https://www.credly.com/badges/b18cc58d-54d2-417b-8ebd-941f567c9091/public_url"><img src="aws-certified-cloud-practitioner.png" height="80"/></a>
+<a href="https://www.credly.com/badges/b18cc58d-54d2-417b-8ebd-941f567c9091/public_url"><img src="aws-certified-solutions-architect-associate.png" height="80"/></a>
