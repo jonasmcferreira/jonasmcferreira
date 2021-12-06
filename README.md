@@ -24,13 +24,14 @@ Certs:
 
 ### **Mandatory Tech Logo board:**
 
+<p>
 <a href="https://www.java.com/">
 <img src="java.png" width="40"></a>
 <a href="https://www.python.org/">
 <img src="python.png" width="40"></a>
 <a href="https://kotlinlang.org/">
 <img src="https://devstickers.com/assets/img/pro/g2sh.png" width="40"></a>
-
+</p>
 <a href="https://en.wikipedia.org/wiki/JavaScript">
 <img src="https://devstickers.com/assets/img/pro/i4eg.png" width="40"></a>
 <a href="https://en.wikipedia.org/wiki/HTML">
