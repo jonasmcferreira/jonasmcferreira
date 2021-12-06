@@ -1,6 +1,7 @@
 ### Hi, I'm Jonas 👋
 
 I'm a software developer/programmer/coder/engineer (whatever is the definition these days) working from Portugal.
+
 Having suffered through my share of Friday deployments, coding in production, and manual testing, I have become obsessed with automating things, so I can sleep well at night.
 
 - <img src="terminal.png" height="20"/> Long time Windows user, slowly turning over to the lure of the dark terminal 
@@ -19,3 +20,40 @@ Certs:
 
 <a href="https://www.credly.com/badges/b18cc58d-54d2-417b-8ebd-941f567c9091/public_url"><img src="aws-certified-cloud-practitioner.png" height="80"/></a>
 <a href="https://www.credly.com/badges/b18cc58d-54d2-417b-8ebd-941f567c9091/public_url"><img src="aws-certified-solutions-architect-associate.png" height="80"/></a>
+
+
+### **Mandatory Tech Logo board:**
+
+<p float="left">
+<a href="https://www.java.com/">
+<img src="https://devstickers.com/assets/img/pro/7kaq.png" width="40">
+ </a>
+<a href="https://www.python.org/">
+<img src="https://devstickers.com/assets/img/pro/p3jo.png" width="40">
+ </a>
+<a href="https://en.wikipedia.org/wiki/JavaScript">
+<img src="https://devstickers.com/assets/img/pro/i4eg.png" width="40"></a>
+
+<a href="https://en.wikipedia.org/wiki/HTML">
+<img src="https://devstickers.com/assets/img/pro/iqm9.png" width="40">
+ </a>
+<a href="https://en.wikipedia.org/wiki/CCS3">
+<img src="https://devstickers.com/assets/img/pro/8pnd.png" width="40"></a>
+
+
+<a href="https://nodejs.org/en/">
+<img src="https://devstickers.com/assets/img/pro/iuw5.png" width="40"></a>
+
+<a href="https://angular.io/">
+<img src="https://devstickers.com/assets/img/cat/angular2.png" width="40"></a>
+
+<a href="https://kotlinlang.org/">
+<img src="https://devstickers.com/assets/img/pro/g2sh.png" width="40"></a>
+
+<a href="https://git-scm.com/">
+<img src="https://devstickers.com/assets/img/pro/apiv.png" width="40"></a>
+
+<a href="https://code.visualstudio.com/">
+<img src="https://devstickers.com/assets/img/pro/saxu.png" width="40"></a>
+</p>
+
