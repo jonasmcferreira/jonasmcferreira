@@ -16,5 +16,6 @@ Tools:
 - [sqs2sqs](https://github.com/jonasmcferreira/sqs-2-sqs) a tool to move messages from one SQS queue to another
 
 Certs:
+
 <a href="https://www.credly.com/badges/b18cc58d-54d2-417b-8ebd-941f567c9091/public_url"><img src="aws-certified-cloud-practitioner.png" height="100"/></a>
 <a href="https://www.credly.com/badges/b18cc58d-54d2-417b-8ebd-941f567c9091/public_url"><img src="aws-certified-solutions-architect-associate.png" height="100"/></a>
