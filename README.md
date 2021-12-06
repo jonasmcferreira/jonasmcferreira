@@ -21,36 +21,35 @@ Certs:
 <a href="https://www.credly.com/badges/b18cc58d-54d2-417b-8ebd-941f567c9091/public_url"><img src="aws-certified-cloud-practitioner.png" height="80"/></a>
 <a href="https://www.credly.com/badges/b18cc58d-54d2-417b-8ebd-941f567c9091/public_url"><img src="aws-certified-solutions-architect-associate.png" height="80"/></a>
 
-
 ### **Mandatory Tech Logo board:**
 
 <p>
-<a href="https://www.java.com/">
-<img src="java.png" width="40"></a>
-<a href="https://www.python.org/">
-<img src="python.png" width="40"></a>
-<a href="https://kotlinlang.org/">
-<img src="https://devstickers.com/assets/img/pro/g2sh.png" width="40"></a>
+<a href="https://duckduckgo.com/?q=!ducky+java"><img src="java.png" width="40"></a>
+<a href="https://duckduckgo.com/?q=!ducky+python"><img src="python.png" width="40"></a>
+<a href="https://duckduckgo.com/?q=!ducky+kotlin"><img src="https://devstickers.com/assets/img/pro/g2sh.png" width="40"></a>
+<a href="https://duckduckgo.com/?q=!ducky+JavaScript"><img src="https://devstickers.com/assets/img/pro/i4eg.png" width="40"></a>
+</p><p>
+<a href="https://duckduckgo.com/?q=!ducky+wiki+HTML"><img src="https://devstickers.com/assets/img/pro/iqm9.png" width="40"></a>
+<a href="https://duckduckgo.com/?q=!ducky+wiki+CCS3"><img src="https://devstickers.com/assets/img/pro/8pnd.png" width="40"></a>
+<a href="https://duckduckgo.com/?q=!ducky+nodejs"><img src="nodejs.png" width="40"></a>
+</p><p>
+<a href="https://duckduckgo.com/?q=!ducky+spring+io"><img src="spring.png" width="40"></a>
+<a href="https://duckduckgo.com/?q=!ducky+spring+boot"><img src="spring-boot.png" width="40"></a>    
+<a href="https://duckduckgo.com/?q=!ducky+cucumber+io"><img src="cucumber.png" width="40"></a>
+<a href="https://duckduckgo.com/?q=!ducky+angular+io"><img src="https://devstickers.com/assets/img/cat/angular2.png" width="40"></a>
+</p><p>
+<a href="https://duckduckgo.com/?q=!ducky+gradle"><img src="gradle.svg" width="40"></a>
+<a href="https://duckduckgo.com/?q=!ducky+maven+apache"><img src="maven.png" width="40"></a>
+</p><p>
+<a href="https://duckduckgo.com/?q=!ducky+git+scm"><img src="https://devstickers.com/assets/img/pro/apiv.png" width="40"></a>    
+<a href="https://duckduckgo.com/?q=!ducky+docker"><img src="docker.png" width="40"></a>
 </p>
-<a href="https://en.wikipedia.org/wiki/JavaScript">
-<img src="https://devstickers.com/assets/img/pro/i4eg.png" width="40"></a>
-<a href="https://en.wikipedia.org/wiki/HTML">
-<img src="https://devstickers.com/assets/img/pro/iqm9.png" width="40">
-</a>
-<a href="https://en.wikipedia.org/wiki/CCS3">
-<img src="https://devstickers.com/assets/img/pro/8pnd.png" width="40"></a>
-<a href="https://nodejs.org/en/">
-<img src="nodejs.png" width="40"></a>
-
-<a href="https://angular.io/">
-<img src="https://devstickers.com/assets/img/cat/angular2.png" width="40"></a>
-
-<a href="https://git-scm.com/">
-<img src="https://devstickers.com/assets/img/pro/apiv.png" width="40"></a>
+<p>
+<a href="https://duckduckgo.com/?q=!ducky+cassandra"><img src="cassandra.png" width="40"></a>    
+<a href="https://duckduckgo.com/?q=!ducky+kafka"><img src="kafka.png" width="40"></a>
+</p>
 
 ### **Tools:**
 
-<a href="https://code.visualstudio.com/">
-<img src="https://devstickers.com/assets/img/pro/saxu.png" width="40"></a>
-<a href="https://www.jetbrains.com/idea/">
-<img src="idea.png" width="40"></a>
+<a href="https://code.visualstudio.com/"><img src="https://devstickers.com/assets/img/pro/saxu.png" width="40"></a>
+<a href="https://www.jetbrains.com/idea/"><img src="idea.png" width="40"></a>
