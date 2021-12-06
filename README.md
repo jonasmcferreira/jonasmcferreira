@@ -1,3 +1,7 @@
+<style>
+p { background-color: white; }
+</style>
+
 ### Hi, I'm Jonas 👋
 
 I'm a software developer/programmer/coder/engineer (whatever is the definition these days) working from Portugal.
