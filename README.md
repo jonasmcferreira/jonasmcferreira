@@ -5,7 +5,7 @@ Having suffered through my share of Friday deployments, coding in production, an
 
 - <img src="terminal.png" height="20"/> Long time Windows user, slowly turning over to the lure of the dark terminal 
 - <img src="vwds.jpeg" height="20"/> currently working on building a backend security system for [Volkswagen Digital Solutions](https://www.vwds.pt/)
-- <img src="aws.png" height="20"/> currently learning AWS SysOps
+- <img src="aws.png" height="20"/> currently focusing on getting my AWS SysOps exam done right.
 
 Some Gists that I'm proud of:
 - [save](https://gist.github.com/jonasmcferreira/cd9de6504c1f55dd8829dc7e7d6d1269) - git save command
