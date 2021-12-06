@@ -5,7 +5,7 @@ Having suffered through my share of Friday deployments, coding in production, an
 
 - <img src="terminal.png" height="20"/> Long time Windows user, slowly turning over to the lure of the dark terminal 
 - <img src="vwds.jpeg" height="20"/> currently working on building a backend security system for [Volkswagen Digital Solutions](https://www.vwds.pt/)
-- <img src="aws.png" height="20"/> currently learning AWS Solutions Architecture
+- <img src="aws.png" height="20"/> currently learning AWS SysOps
 
 Some Gists that I'm proud of:
 - [save](https://gist.github.com/jonasmcferreira/cd9de6504c1f55dd8829dc7e7d6d1269) - git save command
@@ -15,5 +15,8 @@ Some Gists that I'm proud of:
 Tools:
 - [sqs2sqs](https://github.com/jonasmcferreira/sqs-2-sqs) a tool to move messages from one SQS queue to another
 
+Certs:
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="b18cc58d-54d2-417b-8ebd-941f567c9091" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
 
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="b18cc58d-54d2-417b-8ebd-941f567c9091" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
 
