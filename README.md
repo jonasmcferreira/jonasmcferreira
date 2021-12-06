@@ -4,7 +4,7 @@ I'm a software developer/programmer/coder/engineer (whatever is the definition t
 
 Having suffered through my share of Friday deployments, coding in production, and manual testing, I have become obsessed with automating things, so I can sleep well at night.
 
-- <img src="terminal.png" height="20"/> Long time Windows user, slowly turning over to the lure of the dark terminal 
+- <img src="bash.png" height="20"/> Long time Windows user, slowly turning over to the lure of the dark terminal 
 - <img src="vwds.jpeg" height="20"/> currently working on building a backend security system for [Volkswagen Digital Solutions](https://www.vwds.pt/)
 - <img src="aws.png" height="20"/> currently focusing on getting my AWS SysOps exam done right.
 
@@ -24,32 +24,38 @@ Certs:
 ### **Mandatory Tech Logo board:**
 
 <p>
-<a href="https://duckduckgo.com/?q=!ducky+java"><img src="java.png" width="40"></a>
-<a href="https://duckduckgo.com/?q=!ducky+python"><img src="python.png" width="40"></a>
-<a href="https://duckduckgo.com/?q=!ducky+kotlin"><img src="https://devstickers.com/assets/img/pro/g2sh.png" width="40"></a>
-<a href="https://duckduckgo.com/?q=!ducky+JavaScript"><img src="https://devstickers.com/assets/img/pro/i4eg.png" width="40"></a>
-</p><p>
-<a href="https://duckduckgo.com/?q=!ducky+wiki+HTML"><img src="https://devstickers.com/assets/img/pro/iqm9.png" width="40"></a>
-<a href="https://duckduckgo.com/?q=!ducky+wiki+CCS3"><img src="https://devstickers.com/assets/img/pro/8pnd.png" width="40"></a>
-<a href="https://duckduckgo.com/?q=!ducky+nodejs"><img src="nodejs.png" width="40"></a>
-</p><p>
-<a href="https://duckduckgo.com/?q=!ducky+spring+io"><img src="spring.png" width="40"></a>
-<a href="https://duckduckgo.com/?q=!ducky+spring+boot"><img src="spring-boot.png" width="40"></a>    
-<a href="https://duckduckgo.com/?q=!ducky+cucumber+io"><img src="cucumber.png" width="40"></a>
-<a href="https://duckduckgo.com/?q=!ducky+angular+io"><img src="https://devstickers.com/assets/img/cat/angular2.png" width="40"></a>
-</p><p>
-<a href="https://duckduckgo.com/?q=!ducky+gradle"><img src="gradle.svg" width="40"></a>
-<a href="https://duckduckgo.com/?q=!ducky+maven+apache"><img src="maven.png" width="40"></a>
-</p><p>
-<a href="https://duckduckgo.com/?q=!ducky+git+scm"><img src="https://devstickers.com/assets/img/pro/apiv.png" width="40"></a>    
-<a href="https://duckduckgo.com/?q=!ducky+docker"><img src="docker.png" width="40"></a>
+<a href="https://duckduckgo.com/?q=!ducky+java"><img src="java.png" style="max-height:50px;max-width:50px;" ></a>
+<a href="https://duckduckgo.com/?q=!ducky+kotlin"><img src="kotlin.png" style="max-height:50px;max-width:50px;" ></a>
+<a href="https://duckduckgo.com/?q=!ducky+python"><img src="python.png" style="max-height:50px;max-width:50px;" ></a>
+<a href="https://duckduckgo.com/?q=!ducky+javascript"><img src="javascript.png" style="max-height:50px;max-width:50px;" ></a>
+<a href="https://duckduckgo.com/?q=!ducky+bash"><img src="bash.png" style="max-height:50px;max-width:50px;" ></a>
+<a href="https://duckduckgo.com/?q=!ducky+spring"><img src="spring.png" style="max-height:50px;max-width:50px;" ></a>
+<a href="https://duckduckgo.com/?q=!ducky+spring-boot"><img src="spring-boot.png" style="max-height:50px;max-width:50px;" ></a>
+<a href="https://duckduckgo.com/?q=!ducky+cucumber"><img src="cucumber.png" style="max-height:50px;max-width:50px;" ></a>
+<a href="https://duckduckgo.com/?q=!ducky+angular"><img src="angular.png" style="max-height:50px;max-width:50px;" ></a>
 </p>
 <p>
-<a href="https://duckduckgo.com/?q=!ducky+cassandra"><img src="cassandra.png" width="40"></a>    
-<a href="https://duckduckgo.com/?q=!ducky+kafka"><img src="kafka.png" width="40"></a>
+<a href="https://duckduckgo.com/?q=!ducky+mysql"><img src="mysql.png" style="max-height:50px;max-width:50px;" ></a>
+<a href="https://duckduckgo.com/?q=!ducky+postgresql"><img src="postgresql.png" style="max-height:50px;max-width:50px;" ></a>
+<a href="https://duckduckgo.com/?q=!ducky+cassandra"><img src="cassandra.png" style="max-height:50px;max-width:50px;" ></a>
+<a href="https://duckduckgo.com/?q=!ducky+sqlite"><img src="sqlite.png" style="max-height:50px;max-width:50px;" ></a>
+<a href="https://duckduckgo.com/?q=!ducky+mongo"><img src="mongo.png" style="max-height:50px;max-width:50px;" ></a>
+<a href="https://duckduckgo.com/?q=!ducky+dynamodb"><img src="dynamodb.png" style="max-height:50px;max-width:50px;" ></a>
 </p>
-
-### **Tools:**
-
-<a href="https://code.visualstudio.com/"><img src="https://devstickers.com/assets/img/pro/saxu.png" width="40"></a>
-<a href="https://www.jetbrains.com/idea/"><img src="idea.png" width="40"></a>
+<p>
+<a href="https://duckduckgo.com/?q=!ducky+git"><img src="git.png" style="max-height:50px;max-width:50px;" ></a>
+<a href="https://duckduckgo.com/?q=!ducky+gitlab"><img src="gitlab.png" style="max-height:50px;max-width:50px;" ></a>
+<a href="https://duckduckgo.com/?q=!ducky+maven"><img src="maven.png" style="max-height:50px;max-width:50px;" ></a>
+<a href="https://duckduckgo.com/?q=!ducky+gradle"><img src="gradle.png" style="max-height:50px;max-width:50px;" ></a>
+<a href="https://duckduckgo.com/?q=!ducky+jenkins"><img src="jenkins.png" style="max-height:50px;max-width:50px;" ></a>
+</p>
+<p>
+<a href="https://duckduckgo.com/?q=!ducky+docker"><img src="docker.png" style="max-height:50px;max-width:50px;" ></a>
+<a href="https://duckduckgo.com/?q=!ducky+kubernetes"><img src="kubernetes.png" style="max-height:50px;max-width:50px;" ></a>
+<a href="https://duckduckgo.com/?q=!ducky+kafka"><img src="kafka.png" style="max-height:50px;max-width:50px;" ></a>
+<a href="https://duckduckgo.com/?q=!ducky+rabbitmq"><img src="rabbitmq.png" style="max-height:50px;max-width:50px;" ></a>
+</p>
+<p>
+<a href="https://duckduckgo.com/?q=!ducky+aws"><img src="aws.png" style="max-height:50px;max-width:50px;" ></a>
+<a href="https://duckduckgo.com/?q=!ducky+google"><img src="google.png" style="max-height:50px;max-width:50px;" ></a>
+</p>
