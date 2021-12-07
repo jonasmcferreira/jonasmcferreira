@@ -43,8 +43,8 @@ Languages:
 Frameworks:
 
 <p>
-<a href="https://duckduckgo.com/?q=!ducky+cdk"><img src="cdk.png" style="height:50px;" ></a>
-<a href="https://duckduckgo.com/?q=!ducky+sam"><img src="sam.png" style="height:50px;" ></a>
+<a href="https://duckduckgo.com/?q=!ducky+aws+cdk"><img src="cdk.png" style="height:50px;" ></a>
+<a href="https://duckduckgo.com/?q=!ducky+aws+sam"><img src="sam.png" style="height:50px;" ></a>
 <a href="https://duckduckgo.com/?q=!ducky+spring"><img src="spring.png" style="height:50px;" ></a>
 <a href="https://duckduckgo.com/?q=!ducky+spring-boot"><img src="spring-boot.png" style="height:50px;" ></a>
 <a href="https://duckduckgo.com/?q=!ducky+cucumber"><img src="cucumber.png" style="height:50px;" ></a>
