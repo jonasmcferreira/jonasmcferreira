@@ -62,19 +62,15 @@ Databases:
 <a href="https://duckduckgo.com/?q=!ducky+dynamodb"><img src="dynamodb.png" style="height:50px;" ></a>
 </p>
 
-Tools:
+Tools / Platforms
 <p>
 <a href="https://duckduckgo.com/?q=!ducky+git"><img src="git.png" style="height:50px;" ></a>
+<a href="https://duckduckgo.com/?q=!ducky+docker"><img src="docker.png" style="height:50px;" ></a>
 <a href="https://duckduckgo.com/?q=!ducky+gitlab"><img src="gitlab.png" style="height:50px;" ></a>
+<a href="https://duckduckgo.com/?q=!ducky+kubernetes"><img src="kubernetes.png" style="height:50px;" ></a>
+<a href="https://duckduckgo.com/?q=!ducky+kafka"><img src="kafka.png" style="height:50px;" ></a>
 <a href="https://duckduckgo.com/?q=!ducky+maven"><img src="maven.png" style="height:50px;" ></a>
 <a href="https://duckduckgo.com/?q=!ducky+gradle"><img src="gradle.png" style="height:50px;" ></a>
 <a href="https://duckduckgo.com/?q=!ducky+jenkins"><img src="jenkins.png" style="height:50px;" ></a>
-</p>
-
-Platforms:
-<p>
-<a href="https://duckduckgo.com/?q=!ducky+docker"><img src="docker.png" style="height:50px;" ></a>
-<a href="https://duckduckgo.com/?q=!ducky+kubernetes"><img src="kubernetes.png" style="height:50px;" ></a>
-<a href="https://duckduckgo.com/?q=!ducky+kafka"><img src="kafka.png" style="height:50px;" ></a>
-<a href="https://duckduckgo.com/?q=!ducky+rabbitmq"><img src="rabbitmq.png" style="height:50px;" ></a>
+<a href="https://duckduckgo.com/?q=!ducky+rabbitmq"><img src="rabbitmq.png" style="height:50px;" ></a> 
 </p>
