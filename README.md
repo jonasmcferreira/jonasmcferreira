@@ -22,6 +22,7 @@ Having suffered through my share of Friday deployments, coding in production, an
  
 <a href="https://www.credly.com/badges/b18cc58d-54d2-417b-8ebd-941f567c9091/public_url"><img src="aws-certified-cloud-practitioner.png" height="80"/></a>
 <a href="https://www.credly.com/badges/b18cc58d-54d2-417b-8ebd-941f567c9091/public_url"><img src="aws-certified-solutions-architect-associate.png" height="80"/></a>
+<a href="https://www.credly.com/badges/66e2bd9b-832e-4df1-a583-4d583399681d/public_url"><img src="aws-certified-sysops-administrator-associate.png" height="80"/></a>
 
 **Mandatory Tech Logo board:**
 
