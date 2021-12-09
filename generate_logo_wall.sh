@@ -2,35 +2,26 @@
 
 # function which receives a bash array and prints it
 function print_array {
+    echo "$1:"
+    shift
     echo "<p>"
     for i in "${@}"; do
-        echo "<a href=\"https://duckduckgo.com/?q=!ducky+$i\"><img src=\"$i.png\" style=\"max-height:50px;max-width:50px;\" ></a>"
+        echo "<a href=\"https://duckduckgo.com/?q=!ducky+$i\"><img src=\"img/$i.png\" style=\"height:50px;\" ></a>"
     done
     echo "</p>"
 }
 
+cloud_providers=("aws google")
+print_array "Cloud Providers" $cloud_providers
+
 languages=("java kotlin python javascript bash html css")
-print_array $languages
+print_array "Languages" $languages
+
+frameworks=("aws-cdk aws-sam spring spring-boot cucumber angular cypress")
+print_array "Frameworks" $frameworks
 
 databases=("mysql postgresql cassandra sqlite mongo dynamodb")
-print_array $databases
+print_array "Dataabases:" $databases
 
-frameworks=("spring spring-boot cucumber angular")
-print_array $frameworks
-
-build_tools=("maven gradle git")
-print_array $build_tools
-
-cicd=("jenkins gitlab")
-print_array $cicd
-
-platforms=("docker kubernetes kafka")
-print_array $platforms
-
-cloud_providers=("aws google")
-print_array $cloud_providers
-
-tools=("idea vscode")
-print_array $tools
-
-
+build_tools=("git docker gitlab docker kafka maven gradle jenkins rabbitmq")
+print_array "Tools/Platforms" $build_tools
