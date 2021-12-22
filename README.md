@@ -6,7 +6,7 @@ Having suffered through my share of Friday deployments, coding in production, an
 
 - <img src="img/bash.png" height="20"/> Long time Windows user, slowly turning over to the lure of the dark terminal 
 - <img src="img/vwds.jpeg" height="20"/> currently working on building a backend security system for [Volkswagen Digital Solutions](https://www.vwds.pt/)
-- <img src="img/aws.png" height="20"/> currently focusing on getting my AWS SysOps exam done.
+- <img src="img/aws.png" height="20"/> currently focusing on getting my AWS Certified Developer exam done.
  
 **Some Gists that I'm proud of:**
 
