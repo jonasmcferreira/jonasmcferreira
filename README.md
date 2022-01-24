@@ -11,11 +11,11 @@ Having suffered through my share of Friday deployments, coding in production, an
 **Some Gists that I'm proud of:**
 
 - [save](https://gist.github.com/jonasmcferreira/cd9de6504c1f55dd8829dc7e7d6d1269) - git save command
-- [bumpit](https://gist.github.com/jonasmcferreira/6171bb0478096373ce17501dd6097452) - Semantic version bumper
 - [stopwatch](https://gist.github.com/jonasmcferreira/0e3a53a028d1c44cd2ade4b337ae6807) - a command line stopwatch
 
 **Tools:**
 
+- [bump](https://github.com/jonasmcferreira/bump) - Semantic version bumper
 - [sqs2sqs](https://github.com/jonasmcferreira/sqs-2-sqs) a tool to move messages from one SQS queue to another
 
 **Certs:**
