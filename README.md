@@ -16,7 +16,7 @@ Having suffered through my share of Friday deployments, coding in production, an
 **Tools:**
 
 - [bump](https://github.com/jonasmcferreira/bump) - Semantic version bumper
-- [sqs2sqs](https://github.com/jonasmcferreira/sqs-2-sqs) a tool to move messages from one SQS queue to another
+- [sqs2sqs](https://github.com/jonasmcferreira/sqs-2-sqs) - a tool to move messages from one SQS queue to another
 
 **Certs:**
  
