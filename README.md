@@ -70,8 +70,8 @@ Tools / Platforms
 <a href="https://duckduckgo.com/?q=!ducky+docker"><img src="img/docker.png" style="height:50px;" ></a>
 <a href="https://duckduckgo.com/?q=!ducky+gitlab"><img src="img/gitlab.png" style="height:50px;" ></a>
 <a href="https://duckduckgo.com/?q=!ducky+kubernetes"><img src="img/kubernetes.png" style="height:50px;" ></a>
-<a href="https://duckduckgo.com/?q=!ducky+kafka"><img src="img/kafka.png" style="height:50px;" ></a>
-<a href="https://duckduckgo.com/?q=!ducky+maven"><img src="img/maven.png" style="height:50px;" ></a>
+<a href="https://duckduckgo.com/?q=!ducky+apache+kafka"><img src="img/kafka.png" style="height:50px;" ></a>
+<a href="https://duckduckgo.com/?q=!ducky+apache+maven"><img src="img/maven.png" style="height:50px;" ></a>
 <a href="https://duckduckgo.com/?q=!ducky+gradle"><img src="img/gradle.png" style="height:50px;" ></a>
 <a href="https://duckduckgo.com/?q=!ducky+jenkins"><img src="img/jenkins.png" style="height:50px;" ></a>
 <a href="https://duckduckgo.com/?q=!ducky+rabbitmq"><img src="img/rabbitmq.png" style="height:50px;" ></a> 
