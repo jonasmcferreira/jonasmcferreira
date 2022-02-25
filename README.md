@@ -4,9 +4,9 @@ I'm a software developer/programmer/coder/engineer (whatever is the definition t
 
 Having suffered through my share of Friday deployments, coding in production, and manual testing, I have become obsessed with automating things, so I can sleep well at night.
 
-- <img src="img/bash.png" height="20"/> Long time Windows user, slowly turning over to the lure of the dark terminal
-- <img src="img/vwds.jpeg" height="20"/> currently working on building a backend security system for [Volkswagen Digital Solutions](https://www.vwds.pt/)
-- <img src="img/aws.png" height="20"/> focusing on getting my AWS Networking Specialty Exam done.
+- <img src="img/bash.png" height="20"/> love bashing away at my terminal
+- <img src="img/vwds.jpeg" height="20"/> currently working as a TAM for [Amazon Web Services](https://aws.amazon.com/)
+- <img src="img/aws.png" height="20"/> focusing on getting my AWS Solutions Architect Professional Certification.
 
 **Some Gists that I'm proud of:**
 
