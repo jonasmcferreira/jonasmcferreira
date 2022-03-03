@@ -14,3 +14,10 @@ jobs:
         with:
           # GitHub token 🔑
           token: ${{ secrets.METRICS_TOKEN }}
+          # Options 🛠️
+          template: basic
+          config_timezone: Europe/Lisbon
+          plugin_achievements: yes
+          plugin_gists: yes
+          plugin_languages: yes
+
