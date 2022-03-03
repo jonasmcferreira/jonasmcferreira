@@ -12,7 +12,8 @@ jobs:
     steps:
       - uses: lowlighter/metrics@latest
         with:
-          # GitHub token 🔑
+          template: classic
+          filename: github-metrics.svg
           token: ${{ secrets.METRICS_TOKEN }}
           # Options 🛠️
           plugin_achievements: yes
