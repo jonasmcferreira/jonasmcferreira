@@ -8,4 +8,4 @@ Having suffered through my share of Friday deployments, coding in production, an
 - <img src="img/aws.png" height="25"/> currently working as a TAM for [Amazon Web Services](https://aws.amazon.com/)
 - <img src="img/aws.png" height="25"/> focusing on getting my AWS Solutions Architect Professional Certification.
 
-<img src="https://github.com/jonasmcferreira/jonasmcferreira/blob/main/github-metrics.svg" alt="Metrics" width="100%">
+<img src="https://github.com/jonasmcferreira/jonasmcferreira/blob/master/github-metrics.svg" alt="Metrics" width="100%">
