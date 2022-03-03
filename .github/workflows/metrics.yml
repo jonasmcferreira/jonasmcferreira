@@ -24,4 +24,8 @@ jobs:
           filename: terminal-metrics.svg
           token: ${{ secrets.METRICS_TOKEN }}
           base: header, metadata
+          # Options 🛠️
+          plugin_achievements: yes
+          plugin_gists: yes
+          plugin_languages: yes
 
