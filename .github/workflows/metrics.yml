@@ -18,4 +18,10 @@ jobs:
           plugin_achievements: yes
           plugin_gists: yes
           plugin_languages: yes
+      - uses: lowlighter/metrics@latest
+        with:
+          template: terminal
+          filename: terminal-metrics.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          base: header, metadata
 
