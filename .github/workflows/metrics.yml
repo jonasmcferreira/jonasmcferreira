@@ -15,6 +15,7 @@ jobs:
           template: classic
           filename: github-metrics.svg
           token: ${{ secrets.METRICS_TOKEN }}
+          config_display: columns
           # Options 🛠️
           plugin_achievements: yes
           plugin_gists: yes
@@ -26,6 +27,7 @@ jobs:
           template: terminal
           filename: terminal-metrics.svg
           token: ${{ secrets.METRICS_TOKEN }}
+          config_display: columns
           # Options 🛠️
           plugin_achievements: yes
           plugin_gists: yes
